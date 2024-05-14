@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2024.05.14 13:37:24.385,=C:\Users\user\Documents\RAD Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024.05.14 13:37:24.414,=C:\Users\user\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024.05.14 13:44:43.131,=C:\Users\user\Documents\RAD Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2024.05.14 13:45:00.387,=C:\Users\user\Documents\RAD Studio\Projects\Unit3.cpp</Transaction>
+    <Transaction>2024.05.14 14:11:13.068,=C:\Users\user\Documents\RAD Studio\Projects\Unit4.cpp</Transaction>
+    <Transaction>2024.05.14 14:50:51.976,D:\work\2023-2024\Amaliyotlar Dasturlash1\dasturlash 2\682-23\baza jadvallar\Unit1.h=C:\Users\user\Documents\RAD Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2024.05.14 14:50:51.976,D:\work\2023-2024\Amaliyotlar Dasturlash1\dasturlash 2\682-23\baza jadvallar\Unit1.cpp=C:\Users\user\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024.05.14 14:50:51.976,D:\work\2023-2024\Amaliyotlar Dasturlash1\dasturlash 2\682-23\baza jadvallar\Unit1.dfm=C:\Users\user\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024.05.14 14:50:53.845,D:\work\2023-2024\Amaliyotlar Dasturlash1\dasturlash 2\682-23\baza jadvallar\Unit2.dfm=C:\Users\user\Documents\RAD Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2024.05.14 14:50:53.845,D:\work\2023-2024\Amaliyotlar Dasturlash1\dasturlash 2\682-23\baza jadvallar\Unit2.cpp=C:\Users\user\Documents\RAD Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2024.05.14 14:50:53.845,D:\work\2023-2024\Amaliyotlar Dasturlash1\dasturlash 2\682-23\baza jadvallar\Unit2.h=C:\Users\user\Documents\RAD Studio\Projects\Unit2.h</Transaction>
+    <Transaction>2024.05.14 14:50:55.158,D:\work\2023-2024\Amaliyotlar Dasturlash1\dasturlash 2\682-23\baza jadvallar\Unit4.h=C:\Users\user\Documents\RAD Studio\Projects\Unit4.h</Transaction>
+    <Transaction>2024.05.14 14:50:55.158,D:\work\2023-2024\Amaliyotlar Dasturlash1\dasturlash 2\682-23\baza jadvallar\Unit4.dfm=C:\Users\user\Documents\RAD Studio\Projects\Unit4.dfm</Transaction>
+    <Transaction>2024.05.14 14:50:55.158,D:\work\2023-2024\Amaliyotlar Dasturlash1\dasturlash 2\682-23\baza jadvallar\Unit4.cpp=C:\Users\user\Documents\RAD Studio\Projects\Unit4.cpp</Transaction>
+    <Transaction>2024.05.14 14:50:56.643,D:\work\2023-2024\Amaliyotlar Dasturlash1\dasturlash 2\682-23\baza jadvallar\Unit3.cpp=C:\Users\user\Documents\RAD Studio\Projects\Unit3.cpp</Transaction>
+    <Transaction>2024.05.14 14:50:56.643,D:\work\2023-2024\Amaliyotlar Dasturlash1\dasturlash 2\682-23\baza jadvallar\Unit3.dfm=C:\Users\user\Documents\RAD Studio\Projects\Unit3.dfm</Transaction>
+    <Transaction>2024.05.14 14:50:56.643,D:\work\2023-2024\Amaliyotlar Dasturlash1\dasturlash 2\682-23\baza jadvallar\Unit3.h=C:\Users\user\Documents\RAD Studio\Projects\Unit3.h</Transaction>
+    <Transaction>2024.05.14 14:50:57.926,D:\work\2023-2024\Amaliyotlar Dasturlash1\dasturlash 2\682-23\baza jadvallar\Project1PCH1.h=C:\Users\user\Documents\RAD Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024.05.14 14:50:59.359,D:\work\2023-2024\Amaliyotlar Dasturlash1\dasturlash 2\682-23\baza jadvallar\Project1.cbproj=C:\Users\user\Documents\RAD Studio\Projects\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
